@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.env
+.venv/
+venv/
+*.json
+!tests/fixtures/*.json
+!examples/*.json
+.pytest_cache/
+.ruff_cache/

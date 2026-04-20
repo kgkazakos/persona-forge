@@ -1,0 +1,26 @@
+[
+  {
+    "session_id": "session_01",
+    "persona_id": "pm_senior_001",
+    "stated_goals": ["reduce time-to-insight", "align team on priorities"],
+    "observed_behaviours": ["opened dashboard before speaking", "asked for data before deciding"],
+    "expressed_attitudes": ["confident about roadmap", "trusts the research team"],
+    "raw_notes": "Participant arrived early, prepared. Referenced Q3 report unprompted."
+  },
+  {
+    "session_id": "session_02",
+    "persona_id": "pm_senior_001",
+    "stated_goals": ["align team", "get to decision faster"],
+    "observed_behaviours": ["referenced prior research findings", "asked clarifying questions before committing"],
+    "expressed_attitudes": ["relies on data", "confident but open to challenge"],
+    "raw_notes": "Follow-up session. Tone consistent. No contradictions observed by moderator."
+  },
+  {
+    "session_id": "session_03",
+    "persona_id": "pm_senior_001",
+    "stated_goals": ["speed up decisions", "reduce review cycles"],
+    "observed_behaviours": ["skipped review step", "pushed for quick decision"],
+    "expressed_attitudes": ["frustrated with slow process", "urgent"],
+    "raw_notes": "Third session showed increased urgency — possible context change (deadline pressure?)."
+  }
+]
