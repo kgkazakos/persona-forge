@@ -89,7 +89,7 @@ def _call_anthropic(prompt: str, model: str = "claude-sonnet-4-6") -> str:
     return msg.content[0].text if msg.content else ""
 
 
-def _call_gemini(prompt: str, model: str = "gemini-3.1-pro-preview") -> str:
+def _call_gemini(prompt: str, model: str = "gemini-4-argon") -> str:
     try:
         from google import genai  # type: ignore
         from google.genai import types  # type: ignore

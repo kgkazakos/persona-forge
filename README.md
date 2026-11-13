@@ -190,7 +190,7 @@ All enrichment is additive — the rule-based output is always complete without 
 |---|---|---|---|
 | `--llm-backend openai` | `gpt-4o-mini` | narrative, quotes, watch-outs | clinical diagnosis |
 | `--llm-backend anthropic` | `claude-sonnet-4-6` | narrative, quotes, watch-outs | clinical diagnosis |
-| `--llm-backend gemini` | `gemini-3.1-pro-preview` | narrative, quotes, watch-outs | clinical diagnosis |
+| `--llm-backend gemini` | `gemini-4-argon` | narrative, quotes, watch-outs | clinical diagnosis |
 
 Set the appropriate environment variable before use:
 
